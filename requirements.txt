@@ -1,7 +1,7 @@
 pandas
-pickle
 streamlit
 numpy
 matplotlib
 xgboost
-sklearn.model_selection
+scikit-learn
+openpyxl
